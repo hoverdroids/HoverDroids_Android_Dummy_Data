@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Common</string>
+
+    <!--These are strings that are common to many apps. Do not place app-specific example strings
+    here. Instead, add that example data to the HoverDroids_Dummy_Data project-->
+    <string name="title">Title</string>
+    <string name="subtitle">Subtitle</string>
+    <string name="description">Description</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="verify">Verify</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+</resources>
