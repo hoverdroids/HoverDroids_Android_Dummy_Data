@@ -1,0 +1,161 @@
+<resources>
+    <string name="app_name">Geography: US States</string>
+
+    <string name="Alabama">Alabama</string><string name="Alabama_abbr">AL</string>
+    <string name="Alaska">Alaska</string><string name="Alaska_abbr">AK</string>
+    <string name="Arizona">Arizona</string><string name="Arizona_abbr">AZ</string>
+    <string name="Arkansas">Arkansas</string><string name="Arkansas_abbr">AR</string>
+    <string name="California">California</string><string name="California_abbr">CA</string>
+    <string name="Colorado">Colorado</string><string name="Colorado_abbr">CO</string>
+    <string name="Connecticut">Connecticut</string><string name="Connecticut_abbr">CT</string>
+    <string name="Delaware">Delaware</string><string name="Delaware_abbr">DE</string>
+    <string name="Florida">Florida</string><string name="Florida_abbr">FL</string>
+    <string name="Georgia">Georgia</string><string name="Georgia_abbr">GA</string>
+    <string name="Hawaii">Hawaii</string><string name="Hawaii_abbr">HI</string>
+    <string name="Idaho">Idaho</string><string name="Idaho_abbr">ID</string>
+    <string name="Illinois">Illinois</string><string name="Illinois_abbr">IL</string>
+    <string name="Indiana">Indiana</string><string name="Indiana_abbr">IN</string>
+    <string name="Iowa">Iowa</string><string name="Iowa_abbr">IA</string>
+    <string name="Kansas">Kansas</string><string name="Kansas_abbr">KS</string>
+    <string name="Kentucky">Kentucky</string><string name="Kentucky_abbr">KY</string>
+    <string name="Louisiana">Louisiana</string><string name="Louisiana_abbr">LA</string>
+    <string name="Maine">Maine</string><string name="Maine_abbr">ME</string>
+    <string name="Maryland">Maryland</string><string name="Maryland_abbr">MD</string>
+    <string name="Massachusetts">Massachusetts</string><string name="Massachusetts_abbr">MA</string>
+    <string name="Michigan">Michigan</string><string name="Michigan_abbr">MI</string>
+    <string name="Minnesota">Minnesota</string><string name="Minnesota_abbr">MN</string>
+    <string name="Mississippi">Mississippi</string><string name="Mississippi_abbr">MS</string>
+    <string name="Missouri">Missouri</string><string name="Missouri_abbr">MO</string>
+    <string name="Montana">Montana</string><string name="Montana_abbr">MT</string>
+    <string name="Nebraska">Nebraska</string><string name="Nebraska_abbr">NE</string>
+    <string name="Nevada">Nevada</string><string name="Nevada_abbr">NV</string>
+    <string name="New_Hampshire">New Hampshire</string><string name="New_Hampshire_abbr">NH</string>
+    <string name="New_Jersey">New Jersey</string><string name="New_Jersey_abbr">NJ</string>
+    <string name="New_Mexico">New Mexico</string><string name="New_Mexico_abbr">NM</string>
+    <string name="New_York">New York</string><string name="New_York_abbr">NY</string>
+    <string name="North_Carolina">North Carolina</string><string name="North_Carolina_abbr">NC</string>
+    <string name="North_Dakota">North Dakota</string><string name="North_Dakota_abbr">ND</string>
+    <string name="Ohio">Ohio</string><string name="Ohio_abbr">OH</string>
+    <string name="Oklahoma">Oklahoma</string><string name="Oklahoma_abbr">OK</string>
+    <string name="Oregon">Oregon</string><string name="Oregon_abbr">OR</string>
+    <string name="Pennsylvania">Pennsylvania</string><string name="Pennsylvania_abbr">PA</string>
+    <string name="Rhode_Island">Rhode Island</string><string name="Rhode_Island_abbr">RI</string>
+    <string name="South_Carolina">South Carolina</string><string name="South_Carolina_abbr">SC</string>
+    <string name="South_Dakota">South Dakota</string><string name="South_Dakota_abbr">SD</string>
+    <string name="Tennessee">Tennessee</string><string name="Tennessee_abbr">TN</string>
+    <string name="Texas">Texas</string><string name="Texas_abbr">TX</string>
+    <string name="Utah">Utah</string><string name="Utah_abbr">UT</string>
+    <string name="Vermont">Vermont</string><string name="Vermont_abbr">VT</string>
+    <string name="Virginia">Virginia</string><string name="Virginia_abbr">VA</string>
+    <string name="Washington">Washington</string><string name="Washington_abbr">WA</string>
+    <string name="West_Virginia">West Virginia</string><string name="West_Virginia_abbr">WV</string>
+    <string name="Wisconsin">Wisconsin</string><string name="Wisconsin_abbr">WI</string>
+    <string name="Wyoming">Wyoming</string><string name="Wyoming_abbr">WY</string>
+
+    <string-array name="states">
+        <item>@string/Alabama</item>
+        <item>@string/Alaska</item>
+        <item>@string/Arizona</item>
+        <item>@string/Arkansas</item>
+        <item>@string/California</item>
+        <item>@string/Colorado</item>
+        <item>@string/Connecticut</item>
+        <item>@string/Delaware</item>
+        <item>@string/Florida</item>
+        <item>@string/Georgia</item>
+        <item>@string/Hawaii</item>
+        <item>@string/Idaho</item>
+        <item>@string/Illinois</item>
+        <item>@string/Indiana</item>
+        <item>@string/Iowa</item>
+        <item>@string/Kansas</item>
+        <item>@string/Kentucky</item>
+        <item>@string/Louisiana</item>
+        <item>@string/Maine</item>
+        <item>@string/Maryland</item>
+        <item>@string/Massachusetts</item>
+        <item>@string/Michigan</item>
+        <item>@string/Minnesota</item>
+        <item>@string/Mississippi</item>
+        <item>@string/Missouri</item>
+        <item>@string/Montana</item>
+        <item>@string/Nebraska</item>
+        <item>@string/Nevada</item>
+        <item>@string/New_Hampshire</item>
+        <item>@string/New_Jersey</item>
+        <item>@string/New_Mexico</item>
+        <item>@string/New_York</item>
+        <item>@string/North_Carolina</item>
+        <item>@string/North_Dakota</item>
+        <item>@string/Ohio</item>
+        <item>@string/Oklahoma</item>
+        <item>@string/Oregon</item>
+        <item>@string/Pennsylvania</item>
+        <item>@string/Rhode_Island</item>
+        <item>@string/South_Carolina</item>
+        <item>@string/South_Dakota</item>
+        <item>@string/Tennessee</item>
+        <item>@string/Texas</item>
+        <item>@string/Utah</item>
+        <item>@string/Vermont</item>
+        <item>@string/Virginia</item>
+        <item>@string/Washington</item>
+        <item>@string/West_Virginia</item>
+        <item>@string/Wisconsin</item>
+        <item>@string/Wyoming</item>
+    </string-array>
+
+    <string-array name="states_abbr">
+        <item>@string/Alabama_abbr</item>
+        <item>@string/Alaska_abbr</item>
+        <item>@string/Arizona_abbr</item>
+        <item>@string/Arkansas_abbr</item>
+        <item>@string/California_abbr</item>
+        <item>@string/Colorado_abbr</item>
+        <item>@string/Connecticut_abbr</item>
+        <item>@string/Delaware_abbr</item>
+        <item>@string/Florida_abbr</item>
+        <item>@string/Georgia_abbr</item>
+        <item>@string/Hawaii_abbr</item>
+        <item>@string/Idaho_abbr</item>
+        <item>@string/Illinois_abbr</item>
+        <item>@string/Indiana_abbr</item>
+        <item>@string/Iowa_abbr</item>
+        <item>@string/Kansas_abbr</item>
+        <item>@string/Kentucky_abbr</item>
+        <item>@string/Louisiana_abbr</item>
+        <item>@string/Maine_abbr</item>
+        <item>@string/Maryland_abbr</item>
+        <item>@string/Massachusetts_abbr</item>
+        <item>@string/Michigan_abbr</item>
+        <item>@string/Minnesota_abbr</item>
+        <item>@string/Mississippi_abbr</item>
+        <item>@string/Missouri_abbr</item>
+        <item>@string/Montana_abbr</item>
+        <item>@string/Nebraska_abbr</item>
+        <item>@string/Nevada_abbr</item>
+        <item>@string/New_Hampshire_abbr</item>
+        <item>@string/New_Jersey_abbr</item>
+        <item>@string/New_Mexico_abbr</item>
+        <item>@string/New_York_abbr</item>
+        <item>@string/North_Carolina_abbr</item>
+        <item>@string/North_Dakota_abbr</item>
+        <item>@string/Ohio_abbr</item>
+        <item>@string/Oklahoma_abbr</item>
+        <item>@string/Oregon_abbr</item>
+        <item>@string/Pennsylvania_abbr</item>
+        <item>@string/Rhode_Island_abbr</item>
+        <item>@string/South_Carolina_abbr</item>
+        <item>@string/South_Dakota_abbr</item>
+        <item>@string/Tennessee_abbr</item>
+        <item>@string/Texas_abbr</item>
+        <item>@string/Utah_abbr</item>
+        <item>@string/Vermont_abbr</item>
+        <item>@string/Virginia_abbr</item>
+        <item>@string/Washington_abbr</item>
+        <item>@string/West_Virginia_abbr</item>
+        <item>@string/Wisconsin_abbr</item>
+        <item>@string/Wyoming_abbr</item>
+    </string-array>
+
+</resources>

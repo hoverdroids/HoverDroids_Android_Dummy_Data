@@ -1,0 +1,130 @@
+<resources>
+    <string name="app_name">User Profiles: Geometric Avatars</string>
+
+    <string name="contact_info">Contact Info</string>
+    <string name="name">Name</string>
+    <string name="name_first">First Name</string>
+    <string name="name_last">Last Name</string>
+    <string name="company">Company Name</string>
+    <string name="email">eMail</string>
+    <string name="phone">Phone</string>
+    <string name="fax">Fax</string>
+    <string name="dob">Date of Birth</string>
+    <string-array name="user_info">
+        <item>@string/contact_info</item>
+        <item>@string/name</item>
+        <item>@string/name_first</item>
+        <item>@string/name_last</item>
+        <item>@string/company</item>
+        <item>@string/email</item>
+        <item>@string/phone</item>
+        <item>@string/fax</item>
+        <item>@string/dob</item>
+    </string-array>    
+
+    <string name="address">Address</string>
+    <string name="address_shipping">Shipping Address</string>
+    <string name="address_shipping_short">Shipping</string>
+    <string name="address_billing">Billing Address</string>
+    <string name="address_billing_short">Billing</string>
+    <string name="address_street">Street Address</string>
+    <string name="address_street_short">Street</string>
+    <string name="address_city">Town/City</string>
+    <string name="address_city_short">City</string>
+    <string name="address_state">State</string>
+    <string name="address_county">County</string>
+    <string name="address_zip">Zip Code</string>
+    <string name="address_zip_short">Zip Code</string>
+    <string name="date">Date</string>
+    <string name="date_ordered">Date Ordered</string>
+    <string name="date_ordered_short">Ordered</string>
+    <string name="date_shipped">Date Shipped</string>
+    <string name="date_shipped_short">Shipped</string>
+    <string name="date_arrived">Date Arrived</string>
+    <string name="date_arrived_short">Arrived</string>
+
+    <string-array name="shipping_info">
+        <item>@string/address_shipping</item>
+        <item>@string/address_street</item>
+        <item>@string/address_city</item>
+        <item>@string/address_state</item>
+        <item>@string/address_county</item>
+        <item>@string/address_zip</item>
+        <item>@string/date_ordered</item>
+        <item>@string/date_shipped</item>
+        <item>@string/date_arrived</item>
+    </string-array>
+
+    <string-array name="shipping_info_short">
+        <item>@string/address_shipping_short</item>
+        <item>@string/address_street_short</item>
+        <item>@string/address_city_short</item>
+        <item>@string/address_state</item>
+        <item>@string/address_county</item>
+        <item>@string/address_zip_short</item>
+        <item>@string/date_ordered_short</item>
+        <item>@string/date_shipped_short</item>
+        <item>@string/date_arrived_short</item>
+    </string-array>
+
+    <string-array name="billing_info">
+        <item>@string/address_billing</item>
+        <item>@string/address_street</item>
+        <item>@string/address_city</item>
+        <item>@string/address_state</item>
+        <item>@string/address_county</item>
+        <item>@string/address_zip</item>
+        <item>@string/date_ordered</item>
+        <item>@string/date_shipped</item>
+        <item>@string/date_arrived</item>
+    </string-array>
+
+    <string-array name="billing_info_short">
+        <item>@string/address_billing_short</item>
+        <item>@string/address_street_short</item>
+        <item>@string/address_city_short</item>
+        <item>@string/address_state</item>
+        <item>@string/address_county</item>
+        <item>@string/address_zip_short</item>
+        <item>@string/date_ordered_short</item>
+        <item>@string/date_shipped_short</item>
+        <item>@string/date_arrived_short</item>
+    </string-array>
+
+    <string name="gender">Gender</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="other">Other</string>
+    <string name="unspecified">Unspecified</string>
+    <string-array name="genders">
+        <item>@string/male</item>
+        <item>@string/female</item>
+        <item>@string/other</item>
+        <item>@string/unspecified</item>
+    </string-array>
+
+    <!-- Based on standards from http://www.ir.ufl.edu/OIRApps/ethnic_code_changes/info.html#New%20Race%20and%20Ethnicity%20Standards -->
+    <string name="race">Race</string>
+    <string name="native_american">American Indian or Alaska Native</string>
+    <string name="race_asian">Asian</string>
+    <string name="race_black">Black or African American</string>
+    <string name="race_mixed">Native Hawaiian or Other Pacific Islander</string>
+    <string name="race_non_white">White</string>
+    <string-array name="races">
+        <item>@string/native_american</item>
+        <item>@string/race_asian</item>
+        <item>@string/race_black</item>
+        <item>@string/race_mixed</item>
+        <item>@string/race_non_white</item>
+    </string-array>
+
+    <!-- Based on standards from http://www.ir.ufl.edu/OIRApps/ethnic_code_changes/info.html#New%20Race%20and%20Ethnicity%20Standards -->
+    <string name="ethnicity">Ethnicity</string>
+    <string name="ethnicity_hisp_lat">Hispanic or Latino or Spanish Origin</string>
+    <string name="ethnicity_hisp_lat_not">Not Hispanic or Latino or Spanish Origin</string>
+    <string-array name="ethnicities">
+        <item>@string/ethnicity_hisp_lat</item>
+        <item>@string/ethnicity_hisp_lat_not</item>
+    </string-array>
+
+</resources>
