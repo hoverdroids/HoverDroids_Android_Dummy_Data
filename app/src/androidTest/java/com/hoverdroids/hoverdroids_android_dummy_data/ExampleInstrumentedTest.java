@@ -1,4 +1,4 @@
-package com.hoverdroids.hoverdroids_dummy_data;
+package com.hoverdroids.hoverdroids_android_dummy_data;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
